@@ -33,8 +33,9 @@ The objective was to study the **AI in Radiology research trends**: which imagin
 The results show a clear upward trend in research across all imaging techniques, with a particular emphasis on Magnetic Resonance Imaging (MRI). Regarding anatomical regions, the brain exhibits the most significant growing interest, as indicated by the Sen's slope analysis.
 
 This bibliographic review highlights the increasing integration of AI technologies in Radiology, underscoring advancements in imaging analysis, predictive algorithms, and automated diagnostic systems. Key findings include:
-   - AI in Image Analysis: The application of deep learning models and neural networks in image segmentation and classification.
-   - Diagnostic Accuracy: AI's contribution to improving diagnostic accuracy, reducing human error, and supporting radiologists in clinical decision-making.
-   - Predictive Models: AI-based systems for predicting disease outcomes and patient prognosis.
+   - Significant growth: A statistically significant upward trend for all techniques and anatomical regions.
+   - MRI leads the way: Magnetic Resonance Imaging (MRI) shows the highest growth as a technique.
+   - Neuroradiology takes the spotlight: This subspecialty is growing the fastest and has the highest concentration of studies.
+   - The hot spot: Brain MRI is the current focus of AI in Radiology, both in terms of the number of studies and the growth trend.
 
 Overall, the findings provide a comprehensive view of the current state of AI research in Radiology, contributing to a deeper understanding of its clinical applications and potential future developments. This review serves as a valuable resource for researchers and professionals, guiding further exploration into AI's transformative role in medical imaging.
