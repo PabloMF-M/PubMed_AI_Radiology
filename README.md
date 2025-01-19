@@ -34,7 +34,7 @@ The results show a clear upward trend in research across all imaging techniques,
 
 This bibliographic review highlights the increasing integration of AI technologies in Radiology, underscoring advancements in imaging analysis, predictive algorithms, and automated diagnostic systems. Key findings include:
    - Significant growth: A statistically significant upward trend for all techniques and anatomical regions.
-   - MRI leads the way: Magnetic Resonance Imaging (MRI) shows the highest growth as a technique.
+   - MRI leads the way: MRI shows the highest growth as a technique.
    - Neuroradiology takes the spotlight: This subspecialty is growing the fastest and has the highest concentration of studies.
    - The hot spot: Brain MRI is the current focus of AI in Radiology, both in terms of the number of studies and the growth trend.
 
