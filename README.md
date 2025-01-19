@@ -5,7 +5,7 @@ Literature Review of PubMed Articles Published on Artificial Intelligence in Rad
 
 This project presents the results of a bibliographic review of articles published on the application of Artificial Intelligence (AI) in Radiology, excluding Nuclear Medicine. The review was conducted using PubMed, with a focus on the studies up to December 31st, 2024.
 
-This study utilized MeSH (Medical Subject Headings) terms to formulate search queries for PubMed, available in the repository in the XXXX.pdf. This approach enabled an in-depth analysis of AI's role in Radiology across various sub-specialties and methodologies.
+This study utilized MeSH (Medical Subject Headings) terms to formulate search queries for PubMed. Formulas are available in Search_Formulas_Bib_Rev_IA_Rad.pdf document in this repository. This approach enabled an in-depth analysis of AI's role in Radiology across various sub-specialties and methodologies.
 
 ## Objetive
 The objective was to study the **AI in Radiology research trends**: which imaging modalities and anatomical regions have attracted the most research interest up to that date.
@@ -13,7 +13,7 @@ The objective was to study the **AI in Radiology research trends**: which imagin
 ## Methodology
 
 1. **Search Strategy:**
-   - A systematic search was performed on PubMed using MeSH terms and formulas saved in the XXXX.pdf document.
+   - A systematic search was performed on PubMed using MeSH terms and formulas saved in the Search_Formulas_Bib_Rev_IA_Rad.pdf document.
    - The search criteria focused exclusively on AI applications in the field of Radiology, excluding Nuclear Medicine.
    - The articles reviewed include studies and research published up to December 31st, 2024.
 
@@ -34,8 +34,8 @@ The results show a clear upward trend in research across all imaging techniques,
 
 This bibliographic review highlights the increasing integration of AI technologies in Radiology, underscoring advancements in imaging analysis, predictive algorithms, and automated diagnostic systems. Key findings include:
    - Significant growth: A statistically significant upward trend for all techniques and anatomical regions.
-   - MRI leads the way: MRI shows the highest growth as a technique.
-   - Neuroradiology takes the spotlight: This subspecialty is growing the fastest and has the highest concentration of studies.
+   - MRI leads the way: MRI shows the highest growth in AI as a technique.
+   - Neuroradiology takes the spotlight: This subspecialty is seeing the fastest growth in AI research, with the highest concentration of studies.
    - The hot spot: Brain MRI is the current focus of AI in Radiology, both in terms of the number of studies and the growth trend.
 
 Overall, the findings provide a comprehensive view of the current state of AI research in Radiology, contributing to a deeper understanding of its clinical applications and potential future developments. This review serves as a valuable resource for researchers and professionals, guiding further exploration into AI's transformative role in medical imaging.
