@@ -5,7 +5,7 @@ Literature Review of PubMed Articles Published on Artificial Intelligence in Rad
 
 This project presents the results of a bibliographic review of articles published on the application of Artificial Intelligence (AI) in Radiology, excluding Nuclear Medicine. The review was conducted using PubMed, with a focus on the studies up to December 31st, 2024.
 
-The search utilized relevant MeSH (Medical Subject Headings) terms identified from the PDF document uploaded, allowing for an in-depth analysis of AI's role in Radiology across various sub-specialties and methodologies.
+This study utilized MeSH (Medical Subject Headings) terms to formulate search queries for PubMed, available in the repository in the XXXX.pdf. This approach enabled an in-depth analysis of AI's role in Radiology across various sub-specialties and methodologies.
 
 ## Objetive
 The objective was to study the **AI in Radiology research trends**: which imaging modalities and anatomical regions have attracted the most research interest up to that date.
@@ -13,7 +13,7 @@ The objective was to study the **AI in Radiology research trends**: which imagin
 ## Methodology
 
 1. **Search Strategy:**
-   - A systematic search was performed on PubMed using MeSH terms extracted from the provided document.
+   - A systematic search was performed on PubMed using MeSH terms and formulas saved in the XXXX.pdf document.
    - The search criteria focused exclusively on AI applications in the field of Radiology, excluding Nuclear Medicine.
    - The articles reviewed include studies and research published up to December 31st, 2024.
 
