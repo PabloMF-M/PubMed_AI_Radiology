@@ -1,12 +1,12 @@
 # PubMed_AI_Radiology
-Literature Review of PubMed Articles Published on Artificial Intelligence in Radiology up to 2024
+Literature Review of PubMed Articles Published on Artificial Intelligence (AI) in Radiology up to 2024.
 
 Author:
 * Pablo Menéndez Fernández-Miranda MD, PhD, MSc [✉️](mailto:pablomenendezfernandezmiranda@gmail.com).
 
 ## Overview
 
-This project presents the results of a bibliographic review of articles published on the application of Artificial Intelligence (AI) in Radiology, excluding Nuclear Medicine. The review was conducted using PubMed, with a focus on the studies up to December 31st, 2024.
+This project presents the results of a bibliographic review of articles published on the application of AI in Radiology, excluding Nuclear Medicine. The review was conducted using PubMed, with a focus on the studies up to December 31st, 2024.
 
 This study utilized MeSH (Medical Subject Headings) terms to formulate search queries for PubMed. Formulas are available in Search_Formulas_Bib_Rev_IA_Rad.pdf document in this repository. This approach enabled an in-depth analysis of AI's role in Radiology across various sub-specialties and methodologies.
 
